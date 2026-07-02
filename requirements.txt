@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-core
+langchain-google-genai
+langchain-openai
+langchain-community
+huggingface_hub
+wandb
+python-dotenv
+ipynb
+nbformat
+nbconvert
